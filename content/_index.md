@@ -7,7 +7,9 @@ header_button_cta:
 header_button_more:
   url: "#the-future---today"
   title: "Why this is awesome?"
-  <button class="enableEthereumButton">Enable Ethereum</button>
+header_button_extra:
+  url: ""
+  title: "Connext your Ethereum Wallet"
 
 ---
 
