@@ -1,18 +1,17 @@
 ---
-header_brand: "Builders Of The Future, Inc."
-header_tagline_paragraph: "Yes, we are glad you made it here. In fact, the only emotion stronger than our gladness is our desire to tell you more about what we are building. Bright times lie ahead. Let's get into it!"
+header_brand: "Non-Fungible Token (NFT) Ownership Validator"
+header_tagline_paragraph: "Quickly and Securely prove ownership of any NFT!"
 header_button_cta:
   url: "#contact-form"
   title: "Get in touch"
 header_button_more:
   url: "#the-future---today"
   title: "Why this is awesome?"
-teaser_image: "images/teaser.jpg" # https://www.pexels.com/search/product%20testing/
 ---
 
 # The Future - Today!
 
-Some introductory text to get you excited about what we are doing. For example, I could tell you what our [prototype](#prototype) can do and then link you to our [contact form](#contact-form) so you can get in touch to ask for a **one-on-one** (or more :-)) showcase session.
+Unlocking limitless opportunities for creators to connect with their tribes. For example, I could tell you what our [prototype](#prototype) can do and then link you to our [contact form](#contact-form) so you can get in touch to ask for a **one-on-one** (or more :-)) showcase session.
 
 ---
 
@@ -36,13 +35,11 @@ Check out this sweet preview. Impressed much, are you?
 
 Let's keep it simple. This is our contact information:
 
-Jane Doe
-1093 Simpson Square
-May 73851, OK
+Chicago, IL
 USA
 
-E-mail: jane@doe.net
-Phone: 580-689-0577
+E-mail: nftaudio@gmail.com
+
 
 We take data privacy very seriously, so we make sure not to store anything we do not need. We do not have any tracking service, no cookies or anything like that. If you decide to use the contact form or the newsletter sign up this information will be stored on Netlify, a service we use to host this website. You can approach us any time to have your data removed or simply retrieve information about what information we did store.
 
