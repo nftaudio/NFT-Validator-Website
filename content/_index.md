@@ -7,6 +7,8 @@ header_button_cta:
 header_button_more:
   url: "#the-future---today"
   title: "Why this is awesome?"
+  <button class="enableEthereumButton">Enable Ethereum</button>
+
 ---
 
 # The Future - Today!
